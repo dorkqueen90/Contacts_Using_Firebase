@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Contacts Using Firebase</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="sis">SIS</string>
+    <string name="cs">CS</string>
+    <string name="bio">BIO</string>
+    <string name="department">Department:</string>
+    <string name="submit">Submit</string>
+    <string name="avatar">avatar</string>
+    <string name="select_an_avatar">Select An Avatar</string>
+    <string name="redhairfemale">redHairFemale</string>
+    <string name="brownhairfemale">brownHairFemale</string>
+    <string name="darkskinfemale">darkSkinFemale</string>
+    <string name="blondehairmale">blondeHairMale</string>
+    <string name="brownhairmale">brownHairMale</string>
+    <string name="darkskinmale">darkSkinMale</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>
